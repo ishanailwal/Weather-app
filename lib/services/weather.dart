@@ -1,7 +1,7 @@
 import 'location.dart';
 import 'networking.dart';
 
-const apiKey = '975b8ae920596fd280ae505a8d410ab6';
+const apiKey = Your_Api_Key;
 
 class WeatherModel {
   //Location location = Location();
